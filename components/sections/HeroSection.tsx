@@ -67,8 +67,8 @@ export function HeroSection() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto"
           >
-            <p>常にチャレンジ精神を持ち、新しい技術の習得に努めながら、自信と経験を積み重ねます。</p>
-            <p>積極的な主張と対話を通じて機会を捉え、挑戦を続けます。</p>
+            常にチャレンジ精神を持ち、新しい技術の習得に努めながら、自信と経験を積み重ねます。
+            積極的な主張と対話を通じて機会を捉え、挑戦を続けます。
           </motion.p>
 
           {/* <motion.div

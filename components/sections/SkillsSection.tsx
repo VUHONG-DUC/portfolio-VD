@@ -17,7 +17,7 @@ export function SkillsSection() {
     {
       title: 'フロントエンド',
       icon: <Code size={24} />,
-      skills: ['HTML/CSS', 'JavaScript', 'Windows', 'MacOS'],
+      skills: ['HTML/CSS', 'JavaScript'],
     },
     {
       title: 'バックエンド',
@@ -100,7 +100,7 @@ export function SkillsSection() {
                 <span className="text-blue-400 font-bold">1年</span>
               </div>
               <div className="flex justify-between items-center py-3">
-                <span className="text-white">インフラ構築・保守</span>
+                <span className="text-white">インフラ運用・保守</span>
                 <span className="text-blue-400 font-bold">1年</span>
               </div>
             </div>
